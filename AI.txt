@@ -1,0 +1,15 @@
+# AIs
+||chatgpt.com^$important
+||claude.ai^$important
+||gemini.google.com^$important
+||aichat.coccoc.com^$important
+||status.openai.com^$important
+||zzzcode.ai
+||poe.com^$important
+||production-ai-chat.replit.com^$important
+||genesys-chat-production.cap.endurance.com^$important
+||sider.ai^$important
+||openai.com^$important
+||www.blackbox.ai^$important
+||www.useblackbox.io^$important
+||talkai.info^$important

@@ -1,2 +1,0 @@
-127.0.0.1 d3ward.github.io##.textads
-127.0.0.1 d3ward.github.io##.adbox.banner_ads.adsbox

@@ -18,6 +18,7 @@
 ||mclaren.com^$important
 ||lbsg.net^$important
 ||tlauncher.org^$important
+||dashnet.org^$important
 # Free Fire
 ||garena.vn^$important
 ||garena.com^$important

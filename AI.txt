@@ -13,3 +13,4 @@
 ||www.blackbox.ai^$important
 ||www.useblackbox.io^$important
 ||talkai.info^$important
+||edgeservices.bing.com^$important

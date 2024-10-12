@@ -14,3 +14,4 @@
 ||www.useblackbox.io^$important
 ||talkai.info^$important
 ||edgeservices.bing.com^$important
+||copilot.microsoft.com^$important

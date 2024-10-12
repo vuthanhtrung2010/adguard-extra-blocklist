@@ -16,3 +16,4 @@
 ||edgeservices.bing.com^$important
 ||copilot.microsoft.com^$important
 ||edge.microsoft.com^$important
+||codeconvert.ai^$important

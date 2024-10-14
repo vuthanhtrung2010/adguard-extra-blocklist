@@ -19,6 +19,7 @@
 ||lbsg.net^$important
 ||tlauncher.org^$important
 ||dashnet.org^$important
+||tetr.io^$important
 # Free Fire
 ||garena.vn^$important
 ||garena.com^$important

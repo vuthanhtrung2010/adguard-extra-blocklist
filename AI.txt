@@ -18,3 +18,4 @@
 ||edge.microsoft.com^$important
 ||codeconvert.ai^$important
 ||githubcopilot.com^$important
+||deepai.org^$important

@@ -29,3 +29,4 @@
 @@||viblo.asia^$important
 @@||dct.club^$important
 @@||usaco.guide^$important
+@@||ply.gg^$important

@@ -1,4 +1,5 @@
 # Unreal blocked sites
+@@||uk.to^$important
 @@||fonts.gstatic.com^$important
 @@||danbot.host^$important
 @@||js.wiki^$important
@@ -30,3 +31,5 @@
 @@||dct.club^$important
 @@||usaco.guide^$important
 @@||ply.gg^$important
+@@||honeygain.com^$important
+@@||taisachhay.com^$important

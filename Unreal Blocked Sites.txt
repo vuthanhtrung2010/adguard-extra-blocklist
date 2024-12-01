@@ -33,3 +33,7 @@
 @@||ply.gg^$important
 @@||honeygain.com^$important
 @@||taisachhay.com^$important
+@@||go.nagios.org^$important
+@@||fasthost.lol^$important
+@@||web.facebook.com^$important
+

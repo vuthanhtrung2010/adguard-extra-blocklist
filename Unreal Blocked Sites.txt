@@ -36,4 +36,4 @@
 @@||go.nagios.org^$important
 @@||fasthost.lol^$important
 @@||web.facebook.com^$important
-
+@@||algo.monster^$important

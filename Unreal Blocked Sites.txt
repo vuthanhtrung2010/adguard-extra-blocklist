@@ -24,7 +24,7 @@
 @@||graph.facebook.com^$important
 @@||graph.instagram.com^$important
 @@||getsentry.net^$important
-@@||landian.vip
+@@||landian.vip^$important
 @@||www.highspeedinternet.com^$important
 @@||senja.io^$important
 @@||viblo.asia^$important
@@ -37,3 +37,4 @@
 @@||fasthost.lol^$important
 @@||web.facebook.com^$important
 @@||algo.monster^$important
+@@||busmap.city^$important

@@ -38,3 +38,4 @@
 @@||web.facebook.com^$important
 @@||algo.monster^$important
 @@||busmap.city^$important
+@@||giveaway.boats^$important

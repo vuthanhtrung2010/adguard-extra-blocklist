@@ -39,3 +39,4 @@
 @@||algo.monster^$important
 @@||busmap.city^$important
 @@||giveaway.boats^$important
+@@||orangefox.download^$important

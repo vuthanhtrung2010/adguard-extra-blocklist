@@ -40,3 +40,10 @@
 @@||busmap.city^$important
 @@||giveaway.boats^$important
 @@||orangefox.download^$important
+@@||www.gpumining.site^$important
+@@||default.exp-tas.com^$important
+# Facebook is rendering ads via CNAME record?
+@@||b-graph.facebook.com^$important
+@@||www.messenger.com^$important
+@@||edge-chat.messenger.com^$important
+@@||rupload.facebook.com^$important

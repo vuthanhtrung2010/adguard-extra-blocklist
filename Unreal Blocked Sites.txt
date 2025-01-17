@@ -47,3 +47,14 @@
 @@||www.messenger.com^$important
 @@||edge-chat.messenger.com^$important
 @@||rupload.facebook.com^$important
+@@||b-graph.facebook.com^$important
+@@||www.gpumining.site^$important
+@@||default.exp-tas.com^$important
+@@||www.messenger.com^$important
+@@||edge-chat.messenger.com^$important
+@@||rupload.facebook.com^$important
+
+@@||api.bbs.miui.com^$important
+@@||zenrows.com^$important
+@@||mirrors.twilight.fyi^$important
+@@||api.segment.io^$important

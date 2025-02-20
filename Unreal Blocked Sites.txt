@@ -6,8 +6,6 @@
 @@||guns.lol^$important
 @@||www.youtube.com^$important
 @@||www.gravatar.com^$important
-@@||centralized.zaloapp.com^$important
-@@||log.api.zaloapp.com^$important
 @@||sentry.io^$important
 @@||s1.sentry-cdn.com^$important
 @@||cdn.pendo.io^$important

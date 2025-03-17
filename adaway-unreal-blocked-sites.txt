@@ -5,7 +5,7 @@
 *.guns.lol
 *.youtube.com
 *.gravatar.com
-*.sentry.io
+sentry.io
 *.s1.sentry-cdn.com
 *.cdn.pendo.io
 *.api2.amplitude.com

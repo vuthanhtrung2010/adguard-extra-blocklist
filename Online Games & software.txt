@@ -23,4 +23,6 @@
 # Free Fire
 ||garena.vn^$important
 ||garena.com^$important
+||freefiremobile.com^$important
+# Roblox
 ||ropro.io^$important

@@ -1,8 +1,6 @@
 # Online games software/websites
-||steampowered.com^$important
 ||king.com^$important
 ||bluestacks.com^$important
-||www.bluestacks.com^$important
 ||game.coccoc.com^$important
 ||video.comedia.coccoc.com^$important
 ||evowars.io^$important
